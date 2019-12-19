@@ -1,0 +1,21 @@
+<html>
+   <head>
+      <title>Login Page</title>
+   </head>
+   <body>
+      <script type="text/javascript">
+         function wsSubmit() {
+            if (document.getElementById("username_field").value == "demo" && document.getElementById("password_field").value == "mode") {
+               location.href = "http://localhost:7272/welcome.html";
+            } else {
+               location.href = "http://localhost:7272/error.html";
+            }
+         }
+      </script>
+      <div id="formdet">
+         Email : <input type="text" id="username_field" value="" name="username_field" /><br/><br/>
+         Password : <input type="password" id="password_field" value="" name="password_field"/><br/><br/>
+         <input type="submit" id="login_button" value="Submit" name="login_button" onClick="wsSubmit();"/>
+      </div>
+   </body>
+</html>

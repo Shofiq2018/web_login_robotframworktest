@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef817769-b65c-4850-8ed4-e692e94a9511" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VBW5HBig9Lq9IS9YZcNEIezPpM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Robot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../task1" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shofi\PycharmProjects\Robotframwork\app_server" />
+      <recent name="C:\Users\shofi\PycharmProjects\Robotframwork\html" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shofi\PycharmProjects\Robotframwork\app_server" />
+      <recent name="C:\Users\shofi\PycharmProjects\Robotframwork\venv\Scripts" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef817769-b65c-4850-8ed4-e692e94a9511" name="Default Changelist" comment="" />
+      <created>1576726783066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576726783066</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576733450358">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="208" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1504.963@0.0.1504.963" timestamp="1576733450358" />
+    <state x="494" y="284" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576727928639">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="494" y="284" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1504.963@0.0.1504.963" timestamp="1576727928639" />
+    <state x="533" y="366" key="FileChooserDialogImpl" timestamp="1576762472771">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="533" y="366" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1576762472771" />
+    <state x="333" y="216" key="IDE.errors.dialog" timestamp="1576756680346">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="333" y="216" key="IDE.errors.dialog/0.0.1504.963@0.0.1504.963" timestamp="1576756680346" />
+    <state x="254" y="124" key="SettingsEditor" timestamp="1576732122666">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="254" y="124" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1576732122666" />
+    <state x="449" y="305" key="com.intellij.ide.util.TipDialog" timestamp="1576761096628">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="449" y="305" key="com.intellij.ide.util.TipDialog/0.0.1504.963@0.0.1504.963" timestamp="1576761096628" />
+  </component>
+</project>
