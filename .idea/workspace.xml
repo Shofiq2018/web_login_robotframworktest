@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef817769-b65c-4850-8ed4-e692e94a9511" name="Default Changelist" comment="" />
+    <list default="true" id="ef817769-b65c-4850-8ed4-e692e94a9511" name="Default Changelist" comment="Update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,17 +34,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VBW5HBig9Lq9IS9YZcNEIezPpM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Robot" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../task1" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
@@ -37,18 +60,7 @@
       <recent name="C:\Users\shofi\PycharmProjects\Robotframwork\venv\Scripts" />
     </key>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -62,30 +74,26 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update Name" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="208" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576733450358">
-      <screen x="0" y="0" width="1504" height="963" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1599862499720">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="208" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1504.963@0.0.1504.963" timestamp="1576733450358" />
-    <state x="494" y="284" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576727928639">
-      <screen x="0" y="0" width="1504" height="963" />
-    </state>
-    <state x="494" y="284" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1504.963@0.0.1504.963" timestamp="1576727928639" />
-    <state x="533" y="366" key="FileChooserDialogImpl" timestamp="1576762472771">
-      <screen x="0" y="0" width="1504" height="963" />
-    </state>
-    <state x="533" y="366" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1576762472771" />
-    <state x="333" y="216" key="IDE.errors.dialog" timestamp="1576756680346">
-      <screen x="0" y="0" width="1504" height="963" />
-    </state>
-    <state x="333" y="216" key="IDE.errors.dialog/0.0.1504.963@0.0.1504.963" timestamp="1576756680346" />
-    <state x="254" y="124" key="SettingsEditor" timestamp="1576732122666">
-      <screen x="0" y="0" width="1504" height="963" />
-    </state>
-    <state x="254" y="124" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1576732122666" />
-    <state x="449" y="305" key="com.intellij.ide.util.TipDialog" timestamp="1576761096628">
-      <screen x="0" y="0" width="1504" height="963" />
-    </state>
-    <state x="449" y="305" key="com.intellij.ide.util.TipDialog/0.0.1504.963@0.0.1504.963" timestamp="1576761096628" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1599862499720" />
   </component>
 </project>
